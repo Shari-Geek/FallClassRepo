@@ -5,5 +5,5 @@
 - First of all, this is my first open source project. Please show me some respect and star my project. 
 - Used isotope, typed, owlcarousel and more stuffs.
 - Should Be Responsive & mobile-friendly.
-- Take a look: https://Shari-Geek/github.io/VerySimplePortfolio
+- Take a look: https://Shari-Geek/github.io/FallClassRepo/VerySimplePortfolio
 
